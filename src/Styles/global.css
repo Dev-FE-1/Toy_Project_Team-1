@@ -1,0 +1,6 @@
+@import "./color.module.css";
+@import "./font.module.css";
+
+#app {
+  display: flex;
+}
